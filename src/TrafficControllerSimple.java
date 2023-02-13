@@ -1,8 +1,3 @@
-/**
- * @author Lamies Abbas
- * @id 12128050
- */
-
 public class TrafficControllerSimple implements TrafficController {
     private final TrafficRegistrar registrar;
     private boolean empty = true;

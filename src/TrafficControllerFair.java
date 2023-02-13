@@ -1,8 +1,3 @@
-/**
- * @author Lamies Abbas
- * @id 12128050
- */
-
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
